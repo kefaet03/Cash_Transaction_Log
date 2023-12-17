@@ -1,6 +1,7 @@
 # Cash Transaction Log
 
 Welcome to the Cash Transaction Log repository! This project is designed to streamline and automate the management of financial transactions, specifically tailored for hostel meal systems. 
+The google sheet link - https://docs.google.com/spreadsheets/d/1qivrJdyKjeSJUUb0vnCs241K9ZM5fHeC_uT1HHy86c4/edit#gid=2097771964
 
 ## Features
 
