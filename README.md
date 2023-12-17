@@ -48,11 +48,10 @@ Welcome to the Cash Transaction Log repository! This project is designed to stre
 
 If you're interested in incorporating this solution into your project or have specific customization requests, feel free to reach out! We're eager to provide tailored solutions at the lowest cost possible.
 
-Contact: [Your Contact Information]
+Contact: uniqoxtech@gmail.com
 
 ## Contributors
 
-- [Your Name]
-- [Other Contributors]
+- Kefaet Ullah
 
 Thank you for considering the Cash Transaction Log project. We hope it brings efficiency and ease to your financial management needs!
